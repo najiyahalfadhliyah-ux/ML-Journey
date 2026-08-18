@@ -6,7 +6,7 @@ Roadmap belajar Machine Learning selama 12 minggu, mulai dari setup environment,
 
 | Minggu Ke- | Topik Utama | Target Pemahaman | Output Proyek Mini |
 | --- | --- | --- | --- |
-| 1 | Setup Python Data Science | Menyiapkan Python, virtual environment, Jupyter Notebook atau VS Code, dapat juga menggunakan Google Colab atau Kaggle, Git, serta library `numpy`, `pandas`, `matplotlib`, `seaborn`, dan `scikit-learn`. Memahami struktur proyek ML. | Repository GitHub `ml-learning-journey` berisi notebook setup dan checklist environment |
+| 1 | Setup Python Data Science | Menyiapkan Python, virtual environment, Jupyter Notebook atau VS Code, dapat juga menggunakan Google Colab atau Kaggle, Git, serta library `numpy`, `pandas`, `matplotlib`, `seaborn`, dan `scikit-learn`. Memahami struktur proyek ML. | Repository GitHub `ml-learning-journey` |
 | 2 | Python untuk Data dan NumPy | Menggunakan array NumPy, slicing, broadcasting, operasi vektor, serta memahami mengapa operasi array lebih efisien daripada loop manual. | Notebook analisis nilai mahasiswa menggunakan NumPy |
 | 3 | Pandas Dasar | Membaca CSV, melihat struktur data, memilih kolom/baris, filtering, sorting, agregasi, `groupby`, dan ekspor hasil. | Analisis dataset transaksi sederhana, misalnya omzet per kategori dan pelanggan |
 | 4 | Data Cleaning dan EDA | Menemukan missing value, duplikasi, tipe data salah, outlier sederhana, distribusi data, korelasi, dan visualisasi. | Laporan EDA satu dataset publik dalam notebook dengan minimal 5 insight |
