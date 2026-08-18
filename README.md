@@ -18,10 +18,3 @@ Roadmap belajar Machine Learning selama 12 minggu, mulai dari setup environment,
 | 10 | Preprocessing dan Pipeline | Encoding kategorikal, imputasi missing value, scaling, `ColumnTransformer`, `Pipeline`, dan pencegahan data leakage. | Pipeline produksi sederhana untuk dataset campuran numerik dan kategorikal |
 | 11 | Validasi dan Tuning | Menggunakan cross-validation, `GridSearchCV` atau `RandomizedSearchCV`, memahami hyperparameter, dan membandingkan model secara adil. | Eksperimen tuning Random Forest atau Logistic Regression dengan tabel perbandingan |
 | 12 | Unsupervised Learning dan Proyek Akhir | Memahami K-Means, clustering, PCA dasar, interpretasi cluster, dokumentasi proyek, dan penyajian hasil. | Segmentasi pelanggan atau clustering mahasiswa beserta rekomendasi berbasis data |
-
-#### 1. Instalasi Python
-
-Materi tentang instalasi Python dan pengecekan versi.
-
-```bash
-python --version
